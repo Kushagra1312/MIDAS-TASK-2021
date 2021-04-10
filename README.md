@@ -14,3 +14,11 @@
   <li>For task-2 part-2 is named as Saved_material_task2_part 2.zip</li>
   <li>For task-2 part-3 is named as Saved_Material_task2_part 3.zip</li>
   </ul>
+
+## To Run:-
+<ul>
+  <li>Download this repositry</li>
+  <li>Download the requirements mentioned in the requirement.txt </li>
+  <li>Open the python notebook.</li>
+  <li>Change the paths according to your local machine.</li>
+  </ul>
